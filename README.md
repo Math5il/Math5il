@@ -4,7 +4,7 @@
 - 🌱 And Study some JavaScript and NodeJs
 - 😄 Pronouns: He/They
 
-  <div align="center">
+  <div>
     <a href="https://github.com/Math5il">
     <img height="180" src="https://github-readme-stats.vercel.app/api?username=Math5il&show_icons=true&theme=radical#gh-dark-mode-only" />
     <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Math5il&layout=compact&theme=radical#gh-dark-mode-only" />
