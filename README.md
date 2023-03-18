@@ -4,10 +4,10 @@
 - 🌱 And Study some JavaScript and NodeJs
 - 😄 Pronouns: He/They
 
-  <div style="display: inline-block;">
+  <div >
     <a href="https://github.com/Math5il">
-    <img heigth="180px" src="https://github-readme-stats.vercel.app/api?username=Math5il&show_icons=true&theme=radical#gh-dark-mode-only" />
-    <img heigth="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Math5il&layout=compact&theme=radical#gh-dark-mode-only" />
+    <img height="160px" src="https://github-readme-stats.vercel.app/api?username=Math5il&show_icons=true&theme=radical#gh-dark-mode-only" />
+    <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Math5il&layout=compact&theme=radical#gh-dark-mode-only" />
     </a>
   </div><br>
   <div style="display: inline-block;" align="center">
