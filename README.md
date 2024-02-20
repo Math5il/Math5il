@@ -2,7 +2,6 @@
 
 - 🖥️ I currently work with Swift 
 - 🌱 And Study some JavaScript and NodeJs
-- 😄 Pronouns: He/They
 
   <div align="center">
     <a href="https://github.com/Math5il">
